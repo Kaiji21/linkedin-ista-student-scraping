@@ -1,0 +1,70 @@
+{
+    "personnes": [
+        {
+            "name": "Mohammed El bouqi",
+            "profile_url": "https://www.linkedin.com/in/mohammedelbouqi",
+            "occupation": "Développeur informatique",
+            "location": "Prefecture of Mohammédia"
+        },
+        {
+            "name": "Yassine ENNAJEM",
+            "profile_url": "https://www.linkedin.com/in/yassine-ennajem",
+            "occupation": "Microsoft MVP Developer technologies | Application Design and Development Engineer | Trainer",
+            "location": "Rabat-Salé-Kénitra, Morocco"
+        },
+        {
+            "name": "N/A",
+            "profile_url": "https://www.linkedin.com/in/yassine-ennajem",
+            "occupation": "N/A",
+            "location": "N/A"
+        },
+        {
+            "name": "Mustapha Roudani",
+            "profile_url": "https://www.linkedin.com/in/mustapha-roudani-490914248",
+            "occupation": "Full-stack .NET / REACT Developer | Mobile Developer",
+            "location": "Rabat"
+        },
+        {
+            "name": "Abdelaziz Lafqui",
+            "profile_url": "https://www.linkedin.com/in/lafqui",
+            "occupation": "Software Developer at Hahn Software | .NET, Angular",
+            "location": "Rabat Metropolitan Area"
+        },
+        {
+            "name": "Hatim Rachid",
+            "profile_url": "https://www.linkedin.com/in/hatim-rachid",
+            "occupation": ".NET Developer @Billo",
+            "location": "Casablanca Metropolitan Area"
+        },
+        {
+            "name": "Abdelali Labibi",
+            "profile_url": "https://www.linkedin.com/in/abdelali-labibi-575105197",
+            "occupation": "Analyst Developer .NET",
+            "location": "Casablanca"
+        },
+        {
+            "name": "Hicham Benaalioua",
+            "profile_url": "https://www.linkedin.com/in/hicham-benaalioua",
+            "occupation": "Futur ingénieur en informatique et réseau (IIR) option MIAGE à la recherche d'un stage PFE",
+            "location": "Marrakesh-Safi, Morocco"
+        },
+        {
+            "name": "Soufiane Ekouines",
+            "profile_url": "https://www.linkedin.com/in/soufiane-ekouines-29bb00213",
+            "occupation": "Software Engineering",
+            "location": "Kenitra"
+        },
+        {
+            "name": "AMINE EL KHAYARI",
+            "profile_url": "https://www.linkedin.com/in/amine-elkhayari",
+            "occupation": "Développeur applications Web | Front-End : HTML | CSS | JAVASCRIPT | Back-End: PHP | CMS WORDPRESS.",
+            "location": "Prefecture of Salé"
+        },
+        {
+            "name": "Ismail Bagga",
+            "profile_url": "https://www.linkedin.com/in/ismail-bagga",
+            "occupation": "Full stack developer",
+            "location": "Prefecture of Salé"
+        }
+    ]
+}
